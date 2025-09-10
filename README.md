@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thashmisankalpana&label=Profile%20views&color=0e75b6&style=flat" alt="thashmisankalpana" /> </p>
 
-- 📫 How to reach me **linkedin.com/in/thashmi-sankalpana-a4b7b3242**
+- 📫 How to reach me **sankalpana7thashmi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
