@@ -17,27 +17,15 @@ https://thashmisankalpana.github.io/Thashmi_Sankalpana_Portfolio/
 
 <p align="left">
   <a href="https://codepen.io/thashmi-sankalpana" target="_blank">
-    <img align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"
-      alt="codepen"
-      height="40"
-      width="40" />
+    <img src="https://skillicons.dev/icons?i=codepen" height="50" />
   </a>
 
   <a href="https://linkedin.com/in/thashmi-sankalpana-a4b7b3242" target="_blank">
-    <img align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="linkedin"
-      height="40"
-      width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 
   <a href="https://kaggle.com/thashmisankalpana" target="_blank">
-    <img align="center"
-      src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"
-      alt="kaggle"
-      height="40"
-      width="40" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="50" />
   </a>
 </p>
 ---
@@ -50,16 +38,4 @@ https://thashmisankalpana.github.io/Thashmi_Sankalpana_Portfolio/
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=selenium" />
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thashmisankalpana&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashmisankalpana&layout=compact&theme=default" />
 </p>
