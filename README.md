@@ -45,12 +45,10 @@ https://thashmisankalpana.github.io/Thashmi_Sankalpana_Portfolio/
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=thashmisankalpana&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thashmisankalpana&show_icons=true&theme=default" />
 </p>
 
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=thashmisankalpana&show_icons=true&locale=en" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashmisankalpana&layout=compact&theme=default" />
 </p>
