@@ -16,19 +16,30 @@ https://thashmisankalpana.github.io/Thashmi_Sankalpana_Portfolio/
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://codepen.io/thashmi-sankalpana">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40" height="40"/>
-</a>
+  <a href="https://codepen.io/thashmi-sankalpana" target="_blank">
+    <img align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"
+      alt="codepen"
+      height="40"
+      width="40" />
+  </a>
 
-<a href="https://linkedin.com/in/thashmi-sankalpana-a4b7b3242">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-</a>
+  <a href="https://linkedin.com/in/thashmi-sankalpana-a4b7b3242" target="_blank">
+    <img align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="linkedin"
+      height="40"
+      width="40" />
+  </a>
 
-<a href="https://kaggle.com/thashmisankalpana">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40"/>
-</a>
+  <a href="https://kaggle.com/thashmisankalpana" target="_blank">
+    <img align="center"
+      src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"
+      alt="kaggle"
+      height="40"
+      width="40" />
+  </a>
 </p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
